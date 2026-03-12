@@ -11,4 +11,5 @@ print_separator()
 # Output: ******************************
 
 ## 🖥️ Output Preview
-![Output Preview](Capture.png)
+<img width="551" height="241" alt="image" src="https://github.com/user-attachments/assets/3b107302-f3da-4c03-bc42-ce864e262150" />
+
