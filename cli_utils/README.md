@@ -9,3 +9,6 @@ from cli_utils import print_separator
 
 print_separator()
 # Output: ******************************
+
+## 🖥️ Output Preview
+![Output Preview](Output.png)
